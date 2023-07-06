@@ -21,10 +21,10 @@
         </div>
         <ul>
             <li>
-                <a href="/donate">/donate</a>
+                <a href="https://virian.org/donate">/donate</a>
             </li>
             <li>
-                <a href="/vision">/vision</a>
+                <a href="https://virian.org/vision">/vision</a>
             </li>
         </ul>
     </footer>
