@@ -6,9 +6,9 @@
     <div class="header">
         <nav>
             <ul>
-                <li><a class="menu-item" href="https://virian.org/code">code</a></li>
-                <li><a class="menu-item" href="https://virian.org" id="logo">VIRIAN</a></li>
                 <li><a class="menu-item" href="https://virian.org/text">text</a></li>
+                <li><a class="menu-item" href="https://virian.org" id="logo">VIRIAN</a></li>
+                <li><a class="menu-item" href="https://virian.org/code">code</a></li>
             </ul>
         </nav>
     </div>
