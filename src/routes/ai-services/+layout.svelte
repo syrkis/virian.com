@@ -23,7 +23,7 @@
         background-color: #000000;
         color: white;
         text-align: center;
-        font-family: 'Crimson Text';
+        font-family: 'Crimson Pro', serif;
         line-height: 2em;
     }
 
