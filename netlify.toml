@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "/ai-services"
+  to = "/ai-services"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "https://virian.org/:splat"
+  status = 301
+  force = true
