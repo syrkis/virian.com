@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "/"
+  to = "/ai-services"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/ai-services"
   to = "/ai-services"
   status = 200
